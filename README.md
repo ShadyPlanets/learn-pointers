@@ -1,0 +1,2 @@
+# learn-pointers
+A simple file that shows the values of different parts of a pointer and compares between them. This gives a better understading of what are pointers, how to use them, and how do they exist on memories.
